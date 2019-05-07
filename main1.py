@@ -1,4 +1,5 @@
 name = input()
-print(name)
+print("Hello, " + name + "!")
+
 
 input()
