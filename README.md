@@ -1,2 +1,2 @@
 # GitTutorial
-My first repozitory on git hub.
+My first repozitory on Git Hub.
